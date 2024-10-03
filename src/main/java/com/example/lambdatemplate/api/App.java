@@ -1,4 +1,4 @@
-package com.example.lambdatemplate;
+package com.example.lambdatemplate.api;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
